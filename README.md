@@ -51,7 +51,7 @@ The dataset contains sales and operational data from Coca-Cola’s retail distri
 
 ## 🧃 Dynamic Brand Image Feature
 A Beverage Brand URL column was created using DAX to dynamically display the brand image when selected in a slicer.
-```DAX
+```SQL
 Beverage Brand URL = 
 SWITCH(
     'COCA COLA'[Beverage Brand],
