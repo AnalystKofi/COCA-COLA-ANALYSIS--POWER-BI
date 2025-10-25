@@ -53,6 +53,7 @@ The dataset contains sales and operational data from Coca-Cola’s retail distri
 ## 📸 Dashboard Preview
  <img width="1665" height="857" alt="Image" src="https://github.com/user-attachments/assets/9e4d851a-9f8c-4f81-9a64-8f74c6ca3e7c" />
 
-
- ## Screen Recording
+ 
+## Screen Recording
+ 
 
