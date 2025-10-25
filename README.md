@@ -51,8 +51,11 @@ The dataset contains sales and operational data from Coca-Cola’s retail distri
 
  ##  Here’s what I achieved:
 🔹 Cleaned, transformed, and loaded the dataset using Power Query
+
 🔹 Built a Date Table using DAX to enable time intelligence reporting
+
 🔹 Created new DAX measures for better analytics
+
 🔹 Added a Product URL column to dynamically display brand images in the report visuals
 
 
