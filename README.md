@@ -109,6 +109,8 @@ git clone https://github.com/<your-username>/coca-cola-powerbi-dashboard.git
 ## 📧 Contact
 
 **Author:** Kofi Obeng Nti
+
 **Email:** kofiobengnti@gmail.com
+
 **LinkedIn:** www.linkedin.com/in/kofi-obeng-nti-aa3884140
 
