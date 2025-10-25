@@ -49,6 +49,13 @@ The dataset contains sales and operational data from Coca-Cola’s retail distri
 
 * GitHub – Project documentation
 
+ ##  Here’s what I achieved:
+🔹 Cleaned, transformed, and loaded the dataset using Power Query
+🔹 Built a Date Table using DAX to enable time intelligence reporting
+🔹 Created new DAX measures for better analytics
+🔹 Added a Product URL column to dynamically display brand images in the report visuals
+
+
 ## 🧃 Dynamic Brand Image Feature
 A Beverage Brand URL column was created using DAX to dynamically display the brand image when selected in a slicer.
 ```SQL
@@ -84,4 +91,21 @@ A Beverage Brand URL column was created using DAX to dynamically display the bra
 * Carlifonia  leads in number of transactions(total sales by state) in the year 2023, but in 2022 it was New york  .
 
 * Monthly profit trends show consistent growth in peak seasons.
+
+  ## 🚀 How to Use
+
+**1** Clone the repository:
+
+git clone https://github.com/<your-username>/coca-cola-powerbi-dashboard.git
+
+
+**2** Open the .pbix file in Power BI Desktop.
+
+**3** Use slicers to interact with visuals and explore insights.
+
+## 📧 Contact
+
+**Author:** Kofi Obeng Nti
+**Email:** kofiobengnti@gmail.com
+**LinkedIn:** www.linkedin.com/in/kofi-obeng-nti-aa3884140
 
