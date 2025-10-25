@@ -49,3 +49,7 @@ The dataset contains sales and operational data from Coca-Cola’s retail distri
 
 * GitHub – Project documentation
 
+
+## 📸 Dashboard Preview
+
+
