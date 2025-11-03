@@ -79,7 +79,8 @@ SWITCH(
 
 A Beverage Brand URL column was created using DAX to dynamically display the brand image when selected in a slicer.
 ## 📸 Dashboard Preview
- <img width="1665" height="857" alt="Image" src="https://github.com/user-attachments/assets/9e4d851a-9f8c-4f81-9a64-8f74c6ca3e7c" />
+<img width="1685" height="861" alt="Image" src="https://github.com/user-attachments/assets/6f9e6152-c00f-4f5a-8d23-16707ece43e0" />
+ 
 
  
 ## Screen Recording
