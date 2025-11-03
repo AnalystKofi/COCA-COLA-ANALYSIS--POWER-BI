@@ -84,7 +84,7 @@ A Beverage Brand URL column was created using DAX to dynamically display the bra
 
  
 ## Screen Recording
- https://github.com/AnalystKofi/COCA-COLA-ANALYSIS--POWER-BI/blob/main/coke%202025-10-25%2012-57-21.mp4
+ https://github.com/AnalystKofi/COCA-COLA-ANALYSIS--POWER-BI/blob/main/Screen%20Recording%202025-11-03%20141247.mp4
 
 ## 💡 Key Insights
 
